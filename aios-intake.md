@@ -1,14 +1,44 @@
-# AIS-OS Intake
+# Client AIOS Intake
 
-This is the source-of-truth file for your AIOS. Fill it in by typing, voice-pasting (Wispr Flow / OS dictation), or running `/onboard` for a guided conversation. Whichever mode, this file is what `/onboard` reads to scaffold your Day-1 setup.
+This is the source-of-truth file for the client's AIOS. Fill it in by typing, voice-pasting, or running `$onboard` / `/onboard` for a guided conversation. Whichever mode, this file is what onboarding reads to scaffold the Day-1 setup.
 
-**Hard cap: 7 questions.** Each answerable in under 60 seconds. Don't overthink — you can edit and re-run `/onboard` any time.
+**Hard cap: 7 client questions.** Each answerable in under 60 seconds. Don't overthink — you can edit and re-run onboarding any time.
 
 ---
 
-## Q1 — Who are you, what do you sell, who do you sell it to?
+## JB Automations Preflight — completed before Q1-Q7
 
-Identity, offer, ICP. One paragraph each is fine.
+These are setup fields for JB Automations. They are not part of the 7-question client intake.
+
+**Operator mode**
+
+```
+[Claude Code / Codex / Both]
+```
+
+**Client/business name**
+
+```
+[Client or business name]
+```
+
+**Primary operator name**
+
+```
+[Primary operator name]
+```
+
+**Primary operator role**
+
+```
+[Primary operator role]
+```
+
+---
+
+## Q1 — What is this business, what does it sell, and who does it serve?
+
+Business identity, offer, and ideal customer. One paragraph each is fine.
 
 ```
 [Your answer here]
@@ -32,7 +62,7 @@ An email, a LinkedIn post, a DM, a doc — anything that sounds like you when yo
 
 ## Q3 — What are your 2-3 biggest priorities for the next 90 days?
 
-Quarterly priorities. Not yearly aspirations. Things that, if not done by July, would make you say "I wasted Q2."
+Quarterly priorities. Not yearly aspirations. Things that, if not done within 90 days, would make the operator say "we wasted the quarter."
 
 ```
 1. [Priority 1]
@@ -82,4 +112,4 @@ The single biggest time-suck or recurring drudgery. Plus where tasks/projects li
 
 ---
 
-When this file is filled, run `/onboard` (or re-run it) and the wizard will scaffold your Day-1 file set: `context/`, `references/voice.md`, populated `connections.md`, and a filled `CLAUDE.md`.
+When this file is filled, run `$onboard` or `/onboard` and the wizard will scaffold the Day-1 file set: `context/`, `references/voice.md`, populated `connections.md`, and a filled `CLAUDE.md` and/or `AGENTS.md`.

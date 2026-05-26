@@ -10,9 +10,9 @@ description: Use weekly to find and ship one new automation. Walks the 3Ms inter
 
 Walks the user through the 3Ms each week to surface and ship one new automation. **One interview = one artifact.** It also installs the 3Ms framework into the user's head over time — after 4-6 runs, the user starts spotting opportunities mid-week without prompting because the questions have become internal defaults.
 
-This is the brain-rewire mechanism. The kit doesn't need cron jobs to anchor behavior; it needs `/level-up` or `$level-up` running every Friday.
+This is the brain-rewire mechanism. The kit doesn't need cron jobs to anchor behavior; it needs `$level-up` or `/level-up` running every Friday.
 
-## What `/level-up` / `$level-up` is NOT
+## What `$level-up` / `/level-up` is NOT
 
 - Not `/audit`. `/audit` is structural ("is the AIOS built right?"). `/level-up` is functional ("what business leverage am I missing?"). Run `/audit` first if structure is messy.
 - Not a multi-candidate planner. One run = one shipped artifact.

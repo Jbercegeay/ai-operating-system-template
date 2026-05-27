@@ -46,9 +46,9 @@ Business identity, offer, and ideal customer. One paragraph each is fine.
 
 ---
 
-## Q2 — Paste 1-2 things you've written recently. Don't edit them.
+## Q2 — Paste 1-2 things the operator or business has written recently. Don't edit them.
 
-An email, a LinkedIn post, a DM, a doc — anything that sounds like you when you're not trying. **Paste verbatim.** Do not type these mid-conversation with Claude — chat-shaped samples are worse than no samples (voice contamination).
+An email, social post, text message, proposal, patient/customer message, or internal note — anything that sounds like the operator or business when they are not trying. **Paste verbatim.** Do not type these mid-conversation with the AI assistant — chat-shaped samples are worse than no samples (voice contamination).
 
 ```
 [Sample 1 — paste raw]
@@ -60,7 +60,7 @@ An email, a LinkedIn post, a DM, a doc — anything that sounds like you when yo
 
 ---
 
-## Q3 — What are your 2-3 biggest priorities for the next 90 days?
+## Q3 — What are the business's 2-3 biggest priorities for the next 90 days?
 
 Quarterly priorities. Not yearly aspirations. Things that, if not done within 90 days, would make the operator say "we wasted the quarter."
 
@@ -82,7 +82,7 @@ Multiple answers OK. Stripe? Skool? GoHighLevel? QuickBooks? A spreadsheet?
 
 ---
 
-## Q5 — Where do you talk to customers, your team, and the outside world day-to-day?
+## Q5 — Where does the business talk to customers, the team, and the outside world day-to-day?
 
 Email (which one — Gmail / Outlook)? Slack? Teams? DMs (Skool / Discord / iMessage)? Phone?
 
@@ -92,7 +92,7 @@ Email (which one — Gmail / Outlook)? Slack? Teams? DMs (Skool / Discord / iMes
 
 ---
 
-## Q6 — Where do meeting recordings, notes, and important docs live?
+## Q6 — Where do meeting recordings, notes, SOPs, and important docs live?
 
 Granola? Otter? Fireflies? Google Drive? Notion? Dropbox? A folder on your desktop you keep meaning to organize?
 
@@ -102,7 +102,7 @@ Granola? Otter? Fireflies? Google Drive? Notion? Dropbox? A folder on your deskt
 
 ---
 
-## Q7 — What's the one task that eats your week, and where do you currently track work?
+## Q7 — What's the one task that eats the operator's week, and where is work currently tracked?
 
 The single biggest time-suck or recurring drudgery. Plus where tasks/projects live (ClickUp / Asana / Linear / Notion / a notebook).
 

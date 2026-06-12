@@ -121,13 +121,3 @@ ai-operating-system-template/
 Start with one operator. Do not overbuild the first setup.
 
 The first setup lives on one computer and gives the business a working foundation. If the client wants multiple people using the AIOS later, convert it into a shared business repo and add operator profiles as a separate paid next step.
-
----
-
-## Attribution
-
-This template is based on Nate Herk's MIT-licensed AIS-OS starter kit.
-
-The Three Ms of AI™ and The Four Cs of an AIOS™ are trademarks of Nate Herk. Preserve attribution in client copies. Do not repackage the frameworks as JB Automations originals.
-
-Original upstream: https://github.com/nateherkai/AIS-OS

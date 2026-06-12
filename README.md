@@ -1,10 +1,10 @@
 # JB Automations AI Operating System Template
 
-This is the private JB Automations client AIOS template.
+This is the JB Automations client AIOS template.
 
 Use it to set up a client's first AI Operating System during an **AI Workflow Setup Session**.
 
-This repo is not Johnny's personal AIOS. It is not a public product page. It is the reusable starting point JB Automations clones for a client.
+This repo is not Johnny's personal AIOS. It is the reusable starting point JB Automations clones for a client during a setup engagement.
 
 ---
 
@@ -94,24 +94,24 @@ Do not put secrets, API keys, private credentials, or raw exports into the templ
 
 ```
 ai-operating-system-template/
-├── README.md
-├── SETUP.md
-├── CLAUDE.md
-├── AGENTS.md
-├── EXPANSIONS.md
-├── LICENSE
-├── .gitignore
-├── aios-intake.md
-├── connections.md
-├── context/
-├── references/
-│   ├── 3ms-framework.md
-│   └── sops/
-│       └── shared-business-aios-expansion.md
-├── decisions/
-├── archives/
-├── .claude/skills/
-└── .agents/skills/
+|-- README.md
+|-- SETUP.md
+|-- CLAUDE.md
+|-- AGENTS.md
+|-- EXPANSIONS.md
+|-- LICENSE
+|-- .gitignore
+|-- aios-intake.md
+|-- connections.md
+|-- context/
+|-- references/
+|   |-- 3ms-framework.md
+|   `-- sops/
+|       `-- shared-business-aios-expansion.md
+|-- decisions/
+|-- archives/
+|-- .claude/skills/
+`-- .agents/skills/
 ```
 
 ---
